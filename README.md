@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning software techniques and technology !
 - 🌱 I’m currently learning software development and focusing on my career
 - 💞️ I’m looking to collaborate on cool stuff !!
-- 📫 How to reach me ? Just send me a DM at instagram @ismaarino
+- 📫 How to reach me ? Just send me a DM
 
 <!---
 ismaarino/ismaarino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
